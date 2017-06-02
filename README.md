@@ -29,7 +29,3 @@ Library Carpentry is authored and maintained by the [community](https://github.c
 Please cite as:
 
 Library Carpentry. Data Intro for Archivists. June 2017. https://data-lessons.github.io/data-intro-archives/.
-
-## License
-
-All the lessons are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). **Exceptions: embeds to and from external sources, and direct quotations from speakers.**
