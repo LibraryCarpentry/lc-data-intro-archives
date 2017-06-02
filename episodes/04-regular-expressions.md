@@ -163,7 +163,7 @@ This logic is super useful when you have lots of files in a directory, when thos
 
 ### Exercise
 
-Pair up with the person next to you to work throug the following problems.
+Pair up with the person next to you to work through the following problems.
 
 > ## Using square brackets
 > Can you guess what the regular expression `Fr[ea]nc[eh]` will match? 
