@@ -3,9 +3,9 @@ title: "Introduction to Library Carpentry"
 teaching: 15
 exercises: 0
 questions:
-- What do librarians gain from code?
+- What do archivists gain from code?
 objectives:
-- Explain why software skills are valuable to librarians
+- Explain why software skills are valuable to archivists
 - Know where to go for help during Library Carpentry
 keypoints:
 - Don't be scared to ask for help
@@ -15,7 +15,7 @@ keypoints:
 
 ### Introduction
 
-Welcome to Library Carpentry! This series of introductory workshops on software skills for librarians started life as an exploratory programme funded by the Software Sustainability Institute and supported by [Software Carpentry](http://software-carpentry.org/) and City University London. Thanks also go to the British Library and the University of Sussex where James Baker, who developed the workshops, worked when planning and delivering the workshops. The aim of Library Carpentry is to create a set of tools the community can manage, support, enrich, and reuse as it sees fit. Periodically during the sessions we will collect anonymous feedback that will go into improving the classes and ensuring that they best fit the evolving needs and requirements of the library and information science community.
+Welcome to Library Carpentry! This series of introductory workshops on software skills for librarians and archivists started life as an exploratory programme funded by the Software Sustainability Institute and supported by [Software Carpentry](http://software-carpentry.org/) and City University London. Thanks also go to the British Library and the University of Sussex where James Baker, who developed the workshops, worked when planning and delivering the workshops. The aim of Library Carpentry is to create a set of tools the community can manage, support, enrich, and reuse as it sees fit. Periodically during the sessions we will collect anonymous feedback that will go into improving the classes and ensuring that they best fit the evolving needs and requirements of the library and information science community.
 
 The rationale for Library Carpentry is twofold. First, as Andromeda Yelton argues in her excellent [ALA Library Technology Report](http://journals.ala.org/ltr/issue/view/506) 'Coding for Librarians: learning by example', code is a means for librarians to take control of practice and to empower themselves and their organisation to meet user needs in flexible ways. Second, librarians play a crucial role in cultivating world class research. And in most research areas today world class research relies on the use of software. Librarians with software skills are then well placed to continue that cultivation of world class research.
 
