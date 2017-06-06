@@ -1,6 +1,6 @@
 # Library Carpentry
 
-The Library Carpentry module '[Data Intro for Archivists](https://data-lessons.github.io/data-intro-archives/)' is maintained by Jenny Bunn](https://github.com/JennyBunn), [Noah Geraci](https://github.com/ngeraci), and [James Baker](https://github.com/drjwbaker).
+The Library Carpentry module '[Data Intro for Archivists](https://data-lessons.github.io/data-intro-archives/)' is maintained by [Jenny Bunn](https://github.com/JennyBunn), [Noah Geraci](https://github.com/ngeraci), and [James Baker](https://github.com/drjwbaker).
 
 ## Background
 
