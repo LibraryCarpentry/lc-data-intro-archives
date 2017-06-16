@@ -1,26 +1,28 @@
 ---
-title: "Jargon Busting"
+title: "Don't think you work with data?"
 teaching: 15
 exercises: 30
 questions:
-- What terms, phrases, or ideas around code or software development have you come across and perhaps feel you should know better?
+- What sort of data do you work with? 
+- What do you do with it? 
+- What tools do you use to help you?
 objectives:
-- Explain terms, phrases, and concepts associated with terms, phrases, or ideas around code or software development in libraries
-- Compare knowledge of these terms, phrases, and concepts
-- differentiate between these terms, phrases, and concepts
+- Recognise that they work with data
+- Compare what tasks they peform on data and the tools they use
 keypoints:
-- It helps to share what you know and don't know about software development and data science jargon
+- We all have data and it is not just enough to put it into a system and forget about it
 ---
 
-## Jargon Busting
+## Don't think you work with data? Think again
 
 ### Task
 
-This group task is an opportunity for you to get help understanding terms, phrases, or ideas around code or software development in libraries that you've come across and perhaps feel you should know better.
+This group task is an opportunity for you to think about the sort of data you have, what you do with it and what tools you use to do that.
 
 - Start by getting into pairs.
-- Talk for 3 minutes (your instructor will be timing you!) on any terms, phrases, or ideas around code or software development in libraries that you've come across and perhaps feel you should know better.
+- Brainstorm all the different sorts of data you work with (examples might include metadata, catalogue data, legacy data, data ouptut from DROID etc.)
+- Your intstructor will gather in these ideas and lead a discussion to establish that we are all talking about roughly the same thing when we talk about data
 - Get into groups of 4-6. 
-- Make a list of all the problematic terms, phrases, and ideas each pair came up. Retain duplicates. Then - taking common words as a starting point - spend 10 minutes working together to try to explain what the terms, phrases, or ideas means (note: use both each other and the internet as a resource!). Make a note of those your group resolves and those you are still struggling with.
-- Each group then reports back on one issue resolved by their group and one issue not by their group.
-- The instructor will collate these on a whiteboard and facilitate a discussion about what we will cover today and where you can go for help on those things we won't cover.
+- Discuss your own data, trying to answer questions including; How much data do you have? Where is it stored? Who has access to it? How is it formatted or stored? Can you move it about easily - in and out of systems? In particular think about the tools you use to help you manage your data as well as any problems you have with it.
+- Each group then reports back on two problems they have with their data.
+- The instructor will collate these on a whiteboard and facilitate a discussion about; a) how starting to think in terms of data is a good first step for what we will be learning, b) what it is we will be learning, and c) how what we will be learning will help them to solve some of the problems they are facing.
