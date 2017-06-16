@@ -25,4 +25,4 @@ This group task is an opportunity for you to think about the sort of data you ha
 - Get into groups of 4-6. 
 - Discuss your own data, trying to answer questions including; How much data do you have? Where is it stored? Who has access to it? How is it formatted or stored? Can you move it about easily - in and out of systems? In particular think about the tools you use to help you manage your data as well as any problems you have with it.
 - Each group then reports back on two problems they have with their data.
-- The instructor will collate these on a whiteboard and facilitate a discussion about; a) how starting to think in terms of data is a good first step for what we will be learning, b) what it is we will be learning, and c) how what we will be learning will help them to solve some of the problems they are facing.
+- The instructor will collate these on a whiteboard and facilitate a discussion about; a) how starting to think in terms of data is a good first step for what we will be learning, b) what it is we will be learning, and c) how what we will be learning will help us to solve some of the problems we are facing.

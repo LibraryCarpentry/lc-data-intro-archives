@@ -3,10 +3,10 @@ title: "Foundations"
 teaching: 30
 exercises: 15
 questions:
-- What best practice and generic skills underpin you encounters with software skills?
+- What best practice and generic skills underpin your encounters with data and research?
 objectives:
-- Use best practice in using software and data
-- Recognize need for best practice
+- Consider the standards and structures used in your own data
+- Identify the need for consistent practice in data structures
 keypoints:
 - Data structures should be consistent and predictable
 - Consider using semantic elements or data identifiers to data directories
@@ -16,11 +16,19 @@ keypoints:
 
 ## Foundations
 
-Before we crack on with using the computational tools at our disposal, I want to spend some time on some foundation level stuff - a combination of best practice and generic skills that frame what you'll encounter across Library Carpentry.
+In the last episode we discussed what we each think of as data. We came up with a lot of different ideas of what data looks like and how it can be used. Before we crack on with using the computational tools at our disposal, I want to spend some time on some foundation level stuff - a combination of best practice and generic skills that frame what you'll encounter across Archive Carpentry.
 
-### The Computer is Stupid
+### Data are collected through research
+ 
+To summarize the brainstorming session that we had in the last episode, data are information collected through research. As archivists we support research. When we start to think of our collections and our catalogues as data we can start to support new methods of providing access and supporting research. Data can be manipulated using automated or computational methods allowing us to improve our workflows and work more efficiently, freeing up our own time for more interesting tasks. When approaching our work with a data-aware mindset we should think of the systems that we are using to do our work.
 
+### The computer and the systems inside it are stupid
+ 
 This does not mean that the computer isn't useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. Rather when I say that you should keep in mind that the computer is stupid, I mean to say that computer only does what you tell it to. If it throws up an error it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting). This is not to say that the people who told the computer what to tell you when it doesn't know what to do couldn't have done a better job with error messages, for they could. So keep in mind as we go along that if you find an error message frustrating, it isn't the computer's fault that it is giving you an archaic and incomprehensible error message, it is a human person's.
+
+### Beyond the Interface
+ 
+Much of the work that you do with data may be completed through a software interface. Your archival catalogue and Excel spreadsheets are interfaces that allow you to view your data more easily. The data itself is organized into structures that many of you will be familiar with but is much more text heavy and may not be as simple for humans to read. The structures are simple for 
 
 ### Why take an automated or computational approach
 
