@@ -41,7 +41,7 @@ Then there are:
 - `\` NB: this is also used to escape the following character when that character is a special character. So, for example, a regular expression that found `.com` would be `\.com` because `.` is a special character that matches any character.
 - `^` asserts the position at the start of the line. So what you put after it will only match if they are the first characters of a line.
 - `$` asserts the position at the end of the line. So what you put before it will only match if they are the last characters of a line.
-- `\b` adds a word boundary. Putting this either side of a stops the regular expression matching longer variants of words. So:
+- `\b` adds a word boundary. Putting this either side of a word stops the regular expression matching longer variants of words. So:
 	- the regular expression `foobar` will match `foobar` and find `666foobar`, `foobar777`, `8thfoobar8th` et cetera
 	- the regular expression `\bfoobar` will match `foobar` and find `foobar777`
 	- the regular expression `foobar\b` will match `foobar` and find `666foobar`
@@ -67,9 +67,9 @@ So, what is `^[Oo]rgani.e\b` going to match.
 
 Other useful special characters are:
 
-- `*` matches when the preceding character appears any number of times including zero
-- `+` matches when the preceding character appears any number of times excluding zero
-- `?` matches when the preceding character appears one or zero times
+- `*` matches the preceding element zero or more times. For example, ab*c matches "ac", "abc", "abbbc", etc.
+- `+` matches the preceding element one or more times. For example, ab*c matches "abc", "abbbc" but not "ac".
+- `?` matches when the preceding character appears zero or one time.
 - `{VALUE}` matches the preceding character the number of times define by VALUE; ranges can be specified with the syntax `{VALUE,VALUE}`
 - `|` means or.
 
@@ -159,11 +159,11 @@ So, what are these going to match?
 > {: .solution}
 {: .challenge}
 
-This logic is super useful when you have lots of files in a directory, when those files have logical file names, and when you want to isolate a selection of files. Or for looking at cells in spreadsheets for certain values. Or for extracting some data from a column of a spreadsheet to make  new columns. I could go on. The point is, it is super useful in many contexts. To embed this knowledge we won't - however - be using computers. Instead we'll use pen and paper. I want you to work in teams of 4 to work through the exercises in the handout. I have an answer sheet over here if you want to check where you've gone wrong. When you finish, I'd like you to split your team into two groups and write each other some tests. These should include a) strings you want the other team to write regex for and b) regular expressions you want the other team to work out what they would match. Then test each other on the answers. If you want to check your logic, use [regex101](https://regex101.com/), [myregexp](http://myregexp.com/), or [regex pal](http://www.regexpal.com/) [regexper.com](http://regexper.com/): the first three help you see what text your regular expression will match, the latter visualises the workflow of a regular expression.
+This logic is super useful when you have lots of files in a directory, when those files have logical file names, and when you want to isolate a selection of files. Or for looking at cells in spreadsheets for certain values. Or for extracting some data from a column of a spreadsheet to make  new columns. I could go on. The point is, it is super useful in many contexts. To embed this knowledge we won't - however - be using computers. Instead we'll use pen and paper. Work in teams of 4-6 on the exercises below. When you think you have the right answer, check it against the solution. When you finish, I'd like you to split your team into two groups and write each other some tests. These should include a) strings you want the other team to write regex for and b) regular expressions you want the other team to work out what they would match. Then test each other on the answers. If you want to check your logic, use [regex101](https://regex101.com/), [myregexp](http://myregexp.com/), or [regex pal](http://www.regexpal.com/) [regexper.com](http://regexper.com/): the first three help you see what text your regular expression will match, the latter visualises the workflow of a regular expression.
 
 ### Exercise
 
-Pair up with the person next to you to work throug the following problems.
+Pair up with the person next to you to work through the following problems.
 
 > ## Using square brackets
 > Can you guess what the regular expression `Fr[ea]nc[eh]` will match? 
