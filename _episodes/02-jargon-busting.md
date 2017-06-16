@@ -7,8 +7,8 @@ questions:
 - What do you do with it? 
 - What tools do you use to help you?
 objectives:
-- Get participants thinking in terms of data and recognising that they do have some
-- Compare what tasks participants peform on data and the tools they use
+- Recognise that they work with data
+- Compare what tasks they peform on data and the tools they use
 keypoints:
 - We all have data and it is not just enough to put it into a system and forget about it
 ---
@@ -25,4 +25,4 @@ This group task is an opportunity for you to think about the sort of data you ha
 - Get into groups of 4-6. 
 - Discuss your own data, trying to answer questions including; How much data do you have? Where is it stored? Who has access to it? How is it formatted or stored? Can you move it about easily - in and out of systems? In particular think about the tools you use to help you manage your data as well as any problems you have with it.
 - Each group then reports back on two problems they have with their data.
-- The instructor will collate these on a whiteboard and facilitate a discussion about how starting to think in terms of data is a good first step for what we will be learning, what it is we will be learning, and which of the problems raised what we will be learning will help to address.
+- The instructor will collate these on a whiteboard and facilitate a discussion about; a) how starting to think in terms of data is a good first step for what we will be learning, b) what it is we will be learning, and c) how what we will be learning will help them to solve some of the problems they are facing.
