@@ -21,7 +21,7 @@ The rationale for Library Carpentry is twofold. First, as Andromeda Yelton argue
 
 ### Where to go for help 
 
-First, identify people at your table who can help: you will all be working from the same material, so someone around you may have got mastered the point you are stuck at. 
+First, identify people on your table who can help: you will all be working from the same material, so someone around you may have figured out the point you are stuck at. 
 
 Second, there are helpers on hand to help if those around you can't. You should all have access to coloured sticky notes: attaching a red sticky note to your laptop indicates that you need help (it might also alert the attention of someone around you!). So, please use them. 
 
