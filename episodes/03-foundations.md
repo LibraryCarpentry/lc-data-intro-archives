@@ -38,10 +38,8 @@ This does not mean that the computer isn't useful. Given a repetitive task, an e
  
 ### Beyond the Interface
  
-Much of the work that you do with data may be completed through a software interface. Your archival catalog and excel spreadsheets are interfaces that allow you to view your data more easily. The data itself is organized into structures that many of you will be familiar with but is much more text heavy and may not be as simple for humans to read. The structures are simple for 
- 
-### Data structures for computers
- 
+Much of the work that you do with data may be completed through a software interface. Your archival catalog and excel spreadsheets are interfaces that allow you to view your data more easily. The data itself is organized into structures that many of you will be familiar with but is much more text heavy and may not be as simple for humans to read.
+  
 ### Plain text formats are your friend
  
 Why? Because computers can process them! Structures and formats that may be easier for humans to read often cannot be read by computers.
