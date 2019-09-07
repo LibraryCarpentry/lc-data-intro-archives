@@ -28,4 +28,4 @@ Library Carpentry is authored and maintained by the [community](https://github.c
 
 Please cite as:
 
-Library Carpentry. Data Intro for Archivists. June 2017. https://data-lessons.github.io/data-intro-archives/.
+Library Carpentry. Data Intro for Archivists. June 2017. https://librarycarpentry.org/lc-data-intro-archives/.
