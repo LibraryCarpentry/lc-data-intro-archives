@@ -1,7 +1,5 @@
 ---
-layout: page
-title: "Instructor Notes"
-permalink: /guide/
+title: Instructor Notes
 ---
 
 ____
@@ -35,7 +33,7 @@ _____
 ## 04-regular-expressions.md 05-quiz.md 06-quiz-answers.md
 
 You may find it useful to use slides to work through episode four (see below for potential slides). Before starting the exercise, encourage learners to work with pen and paper, explain that with regex there are sometimes multiple answers to the same question (that is, some regex is perfect and some does the job given the likely data structures we use) and point them towards places to test their regex: for example regex101 [https://regex101.com/](https://regex101.com/), rexegper [http://regexper.com/](http://regexper.com/), myregexp [http://myregexp.com/]([http://myregexp.com/]), or whichever service you prefer. Also point them towards the quiz (episode five and six) as something they may move onto if they they finish the exercises early or look at after the workshop.
-  
+
 ____
 # General notes on Data Intro
 
