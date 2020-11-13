@@ -8,7 +8,7 @@ ____
 ____
 ## Making a handout
 
-Librarians like handouts. To make a handout for this lesson, adapt/print from [https://librarycarpentry.org/lc-data-intro-archives/reference/](https://librarycarpentry.org/lc-data-intro-archives/reference/).
+Librarians like handouts. To make a handout for this lesson, adapt/print from [the lesson reference page]({{page.root}}/reference.html).
 
 ____
 ## 02-jargon-busting.md
