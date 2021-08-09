@@ -17,13 +17,13 @@ keypoints:
 
 Welcome to Library Carpentry! This series of introductory workshops on software skills for librarians and archivists started life as an exploratory programme funded by the Software Sustainability Institute and supported by [Software Carpentry](http://software-carpentry.org/) and City University London. Thanks also go to the British Library and the University of Sussex where James Baker, who developed the workshops, worked when planning and delivering the workshops. The aim of Library Carpentry is to create a set of tools the community can manage, support, enrich, and reuse as it sees fit. Periodically during the sessions we will collect anonymous feedback that will go into improving the classes and ensuring that they best fit the evolving needs and requirements of the library and information science community.
 
-The rationale for Library Carpentry is twofold. First, as Andromeda Yelton argues in her excellent [ALA Library Technology Report](http://journals.ala.org/ltr/issue/view/506) 'Coding for Librarians: learning by example', code is a means for librarians to take control of practice and to empower themselves and their organisation to meet user needs in flexible ways. Second, librarians play a crucial role in cultivating world class research. And in most research areas today world class research relies on the use of software. Librarians with software skills are then well placed to continue that cultivation of world class research.
+The rationale for Library Carpentry is twofold. First, as Andromeda Yelton argues in her excellent [Library Technology Reports](https://doi.org/10.5860/ltr.51n3), 'Coding for Librarians: Learning by Example', code is a means for librarians to take control of practice and to empower themselves and their organisation to meet user needs in flexible ways. Second, librarians play a crucial role in cultivating world class research. And in most research areas today world class research relies on the use of software. Librarians with software skills are then well placed to continue that cultivation of world class research.
 
-### Where to go for help 
+### Where to go for help
 
-First, identify people on your table who can help: you will all be working from the same material, so someone around you may have figured out the point you are stuck at. 
+First, identify people on your table who can help: you will all be working from the same material, so someone around you may have figured out the point you are stuck at.
 
-Second, there are helpers on hand to help if those around you can't. You should all have access to coloured sticky notes: attaching a red sticky note to your laptop indicates that you need help (it might also alert the attention of someone around you!). So, please use them. 
+Second, there are helpers on hand to help if those around you can't. You should all have access to coloured sticky notes: attaching a red sticky note to your laptop indicates that you need help (it might also alert the attention of someone around you!). So, please use them.
 
 Third, each part of Library Carpentry may require you to install software or download data. Breaks are a good time to ask for help.
 
