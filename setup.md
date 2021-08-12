@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Setup
-permalink: /setup/
 ---
 1. Installation instructions for core lessons are included in the [workshop template's home page][template],
    so that they are all in one place.
