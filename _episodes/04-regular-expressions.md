@@ -75,7 +75,7 @@ Other useful special characters are:
 
 So, what are these going to match?
 
-> ## ^[Oo]rgani.e\w*
+> ## `^[Oo]rgani.e\w*`
 > Can you guess what the regular expression `^[Oo]rgani.e\w*` will match? 
 >
 > > ## Solution
@@ -89,7 +89,7 @@ So, what are these going to match?
 > {: .solution}
 {: .challenge}
 
-> ## [Oo]rgani.e\w+$
+> ## `[Oo]rgani.e\w+$`
 > Can you guess what the regular expression `[Oo]rgani.e\w+$` will match? 
 >
 > > ## Solution
@@ -103,7 +103,7 @@ So, what are these going to match?
 > {: .solution}
 {: .challenge}
 
-> ## ^[Oo]rgani.e\w?\b
+> ## `^[Oo]rgani.e\w?\b`
 > Can you guess what the regular expression `^[Oo]rgani.e\w?\b` will match? 
 >
 > > ## Solution
@@ -117,7 +117,7 @@ So, what are these going to match?
 > {: .solution}
 {: .challenge}
 
-> ## ^[Oo]rgani.e\w?$
+> ## `^[Oo]rgani.e\w?$`
 > Can you guess what the regular expression `^[Oo]rgani.e\w?$` will match? 
 >
 > > ## Solution
@@ -131,7 +131,7 @@ So, what are these going to match?
 > {: .solution}
 {: .challenge}
 
-> ## \b[Oo]rgani.e\w{2}\b
+> ## `\b[Oo]rgani.e\w{2}\b`
 > Can you guess what the regular expression `\b[Oo]rgani.e\w{2}\b` will match? 
 >
 > > ## Solution
@@ -145,7 +145,7 @@ So, what are these going to match?
 > {: .solution}
 {: .challenge}
 
-> ## \b[Oo]rgani.e\b|\b[Oo]rgani.e\w{1}\b
+> ## `\b[Oo]rgani.e\b|\b[Oo]rgani.e\w{1}\b`
 > Can you guess what the regular expression `\b[Oo]rgani.e\b|\b[Oo]rgani.e\w{1}\b` will match? 
 >
 > > ## Solution
