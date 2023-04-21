@@ -1,0 +1,55 @@
+{
+  "contributors": [
+    {
+      "type": "Editor",
+      "name": "Katherine E. Koziar",
+      "orcid": "0000-0003-0505-7973"
+    }
+  ],
+  "creators": [
+    {
+      "name": "James Baker",
+      "orcid": "0000-0002-2682-6922"
+    },
+    {
+      "name": "Katherine E. Koziar",
+      "orcid": "0000-0003-0505-7973"
+    },
+    {
+      "name": "Christopher Erdmann",
+      "orcid": "0000-0003-2554-180X"
+    },
+    {
+      "name": "JennyBunn"
+    },
+    {
+      "name": "Scott Carl Peterson",
+      "orcid": "0000-0002-1920-616X"
+    },
+    {
+      "name": "Doing archives"
+    },
+    {
+      "name": "Charlotte Kostelic"
+    },
+    {
+      "name": "Jamie"
+    },
+    {
+      "name": "JuliaScheel"
+    },
+    {
+      "name": "Katrin Leinweber",
+      "orcid": "0000-0001-5135-5758"
+    },
+    {
+      "name": "Noah Geraci"
+    },
+    {
+      "name": "ch3080"
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  }
+}
