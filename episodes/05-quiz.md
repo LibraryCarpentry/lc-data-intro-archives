@@ -1,16 +1,22 @@
 ---
-title: "Introduction to Data - Multiple Choice Quiz"
+title: Introduction to Data - Multiple Choice Quiz
 teaching: 0
 exercises: 30
-questions:
-- What does `Fr[ea]nc[eh]` match?
-objectives:
-- Test knowledge of use of regular expressions in searches
-keypoints:
-- Regular expressions reference guide
 ---
 
-# Multiple Choice Quiz
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Test knowledge of use of regular expressions in searches
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- What does `Fr[ea]nc[eh]` match?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Multiple Choice Quiz
 
 This multiple choice quiz is designed to embed the regex knowledge you learned during this module. We recommend you work through it someone after class (within a week or so). Answers are on the answer sheet.
 
@@ -85,3 +91,11 @@ Q12. If brackets are used to define a group, what would match the regular expres
 - A) , 135, 1155, 915, 513, 18.8
 - B) , 135, 11557, 915, 513, 18.8
 - C) , 135, 1155, 915, 513, 188
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- Regular expressions reference guide
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+

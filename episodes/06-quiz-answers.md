@@ -2,15 +2,21 @@
 title: Introduction to Data - Multiple Choice Quiz (answers)"
 teaching: 0
 exercises: 0
-questions:
-- What does `Fr[ea]nc[eh]` match?
-objectives:
-- Test knowledge of use of regular expressions in searches
-keypoints:
-- Regular expressions answer sheet
 ---
 
-# Library Carpentry Week One: Introduction to Data
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Test knowledge of use of regular expressions in searches
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- What does `Fr[ea]nc[eh]` match?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Library Carpentry Week One: Introduction to Data
 
 ## Exercise Answers
 
@@ -68,3 +74,11 @@ How would you match publication formats such as `British Library : London, 2015`
 - Q10. A
 - Q11. B
 - Q12. A
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- Regular expressions answer sheet
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+

@@ -2,6 +2,8 @@
 title: Reference
 ---
 
+## Glossary
+
 # Regular Expressions Cheat Sheet
 
 - `[]` defines a range of characters
@@ -18,5 +20,7 @@ title: Reference
 - `?` matches when the preceding character appears one or zero times
 - `{VALUE}` matches the preceding character the number of times define by VALUE; ranges can be specified with the syntax `{VALUE,VALUE}`
 - `|` means or
-- Check your regex with: regex101 [https://regex101.com/](https://regex101.com/), rexegper [http://regexper.com/](http://regexper.com/), or myregexp [http://myregexp.com/]([http://myregexp.com/])
-- Test yourself with: Regex Crossword https://regexcrossword.com/ or our The Multiple Choice Quiz [http://data-lessons.github.io/library-data-intro/05-quiz/](http://data-lessons.github.io/library-data-intro/05-quiz/)
+- Check your regex with: regex101 [https://regex101.com/](https://regex101.com/), rexegper [http://regexper.com/](https://regexper.com/), or myregexp [http://myregexp.com/]([http://myregexp.com/])
+- Test yourself with: Regex Crossword [https://regexcrossword.com/](https://regexcrossword.com/) or our The Multiple Choice Quiz [http://data-lessons.github.io/library-data-intro/05-quiz/](https://data-lessons.github.io/library-data-intro/05-quiz/)
+
+
