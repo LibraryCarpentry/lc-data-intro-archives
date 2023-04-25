@@ -28,7 +28,13 @@
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://librarycarpentry.github.io/lc-data-intro-archives/aio.html</loc>
+  </url>
+  <url>
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://librarycarpentry.github.io/lc-data-intro-archives/images.html</loc>
   </url>
   <url>
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/index.html</loc>
@@ -61,16 +67,34 @@
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://librarycarpentry.github.io/lc-data-intro-archives/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://librarycarpentry.github.io/lc-data-intro-archives/key-points.html</loc>
   </url>
   <url>
     <loc>https://librarycarpentry.github.io/lc-data-intro-archives/profiles.html</loc>
